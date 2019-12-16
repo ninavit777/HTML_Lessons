@@ -2,7 +2,7 @@
 	display: inline-block;
 }
 
-#snake-renew,#snake-stsrt{
+#snake-renew,#snake-start{
 	width: 150px;
 	padding: 15px;
 	color: white;
@@ -23,7 +23,7 @@ td.game-table-cell{
 	border: 1px dotted #eee;
 
 }
-.snacke-unit{
+.snake-unit{
 	background-color: white;
 
 }
